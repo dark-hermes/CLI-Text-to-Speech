@@ -15,6 +15,7 @@ apt install vlc
 or
 apt install mpv
 
+add audio player to PATH and integrated with Environment Variables
 
 
 
