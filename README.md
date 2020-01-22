@@ -7,5 +7,15 @@ gTST library
 VLC
 MPV (for Linux)
 
-pip install gTTS or pip3 install gTTS
-apt install VLCor apt install mpv
+pip install gTTS
+or
+pip3 install gTTS
+
+apt install vlc
+or
+apt install mpv
+
+
+
+
+
